@@ -19,7 +19,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia🇹🇳.
+- :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
 
 - :telescope: I’m working as a Software Engineer at <img src="https://s3-media3.fl.yelpcdn.com/assets/srv0/yelp_design_web/b085a608c15f/assets/img/logos_desktop/default@2x.png" width="50" > and contributing to frontend and backend for building web applications.
 
